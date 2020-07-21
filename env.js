@@ -12,5 +12,5 @@ window.settings = {
     color: 'default'
   },
   // 背景
-  background_url: '/bg.jpg'
+  background_url: 'https://cdn.jsdelivr.net/gh/ssgo-app/ssgo-app.github.com/bg.jpg'
 }
